@@ -1,0 +1,4 @@
+echo "profile dari .bash_profile"
+PS1='\u@\h:\w\$ '
+export PS1
+
